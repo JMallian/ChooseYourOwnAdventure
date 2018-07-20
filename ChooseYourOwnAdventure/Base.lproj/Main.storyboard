@@ -147,7 +147,7 @@
         <!--View Controller-->
         <scene sceneID="ng2-lV-aQE">
             <objects>
-                <viewController id="RC1-sC-FSS" sceneMemberID="viewController">
+                <viewController id="RC1-sC-FSS" customClass="MYOAViewController" customModule="ChooseYourOwnAdventure" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="2Vm-oA-jLV">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -238,7 +238,7 @@
         <!--View Controller-->
         <scene sceneID="pE5-UC-3XF">
             <objects>
-                <viewController id="IQL-YS-3Ad" sceneMemberID="viewController">
+                <viewController id="IQL-YS-3Ad" customClass="MYOAViewController" customModule="ChooseYourOwnAdventure" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="AlG-9P-XBI">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -328,7 +328,7 @@
         <!--View Controller-->
         <scene sceneID="WX9-WQ-TZj">
             <objects>
-                <viewController id="rU2-df-OTi" sceneMemberID="viewController">
+                <viewController id="rU2-df-OTi" customClass="MYOAViewController" customModule="ChooseYourOwnAdventure" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kiO-NY-Y5o">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -360,7 +360,7 @@
         <!--View Controller-->
         <scene sceneID="aAj-DT-sQe">
             <objects>
-                <viewController id="JAt-Og-8XU" sceneMemberID="viewController">
+                <viewController id="JAt-Og-8XU" customClass="MYOAViewController" customModule="ChooseYourOwnAdventure" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="SfW-kz-IHt">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -392,7 +392,7 @@
         <!--View Controller-->
         <scene sceneID="T6W-0y-kll">
             <objects>
-                <viewController id="NUm-Us-kjc" sceneMemberID="viewController">
+                <viewController id="NUm-Us-kjc" customClass="MYOAViewController" customModule="ChooseYourOwnAdventure" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="scj-0P-RAF">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -425,7 +425,7 @@
         <!--View Controller-->
         <scene sceneID="wi1-sc-61q">
             <objects>
-                <viewController id="Jtu-bc-l2O" sceneMemberID="viewController">
+                <viewController id="Jtu-bc-l2O" customClass="MYOAViewController" customModule="ChooseYourOwnAdventure" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Y6y-2G-cvS">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>

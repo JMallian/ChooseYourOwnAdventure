@@ -61,7 +61,7 @@
                                     <constraint firstAttribute="height" constant="275" id="aoA-Jr-dkB"/>
                                 </constraints>
                                 <string key="text">Oh no! You are woken up at 1 in the morning by a loud noise. You roll over and try to go back to sleep but hear the sound of footsteps coming up the outside stairs.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -98,7 +98,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="6fr-jw-Vek"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Clean Up the Glass"/>
                                 <connections>
                                     <segue destination="kP7-b5-gp4" kind="show" id="4eI-05-pSZ"/>
                                 </connections>
@@ -108,7 +108,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="ibj-P5-EEX"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Tallk to the Bird Monster"/>
                                 <connections>
                                     <segue destination="Jtu-bc-l2O" kind="show" id="zw4-WT-sZL"/>
                                 </connections>
@@ -119,8 +119,8 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="275" id="bkx-f1-GFz"/>
                                 </constraints>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <string key="text">Thee is a bird monster. What is that? It's a monster that is also a bird. The bird monster didn't appreciate you yelling at it and flies right at your bedroom window breaking the glass. OMG! How messy! </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -152,14 +152,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="f58-Tu-6QF">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="The bird appreciates your manners and offers you a ride. It is wonderful. You win this round! " textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="f58-Tu-6QF">
                                 <rect key="frame" x="0.0" y="64" width="375" height="275"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="275" id="J2t-7i-G0M"/>
                                 </constraints>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -212,7 +211,7 @@
                                     <constraint firstAttribute="height" constant="275" id="DUn-ZZ-jJs"/>
                                 </constraints>
                                 <string key="text">You peek out the window and see that it's a bear - how odd! But he certainly won't know the code for the door. You fall back asleep and your alarm goes off at 5:15 a.m. </string>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -250,7 +249,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="275" id="0s7-G3-Opv"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -302,7 +301,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="275" id="hNE-pU-duJ"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -340,7 +339,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="275" id="Dai-vL-CGe"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -372,7 +371,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="275" id="FDx-NQ-KJ1"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -404,8 +403,8 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="275" id="J0h-X9-Wex"/>
                                 </constraints>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <string key="text">Oh no! This is such a misunderstanding. The bird monster thought you were offering up yourself as food! Well you lose this round. </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -431,14 +430,13 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="J1a-x7-2bu">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Conversation is a lost art. You stay up all night talking with the bird monster. He's quite interesting. You win this round! " textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="J1a-x7-2bu">
                                 <rect key="frame" x="0.0" y="64" width="375" height="275"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="275" id="cmS-0a-rsL"/>
                                 </constraints>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -469,7 +467,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="LzP-zO-hoI"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Offer the Bird Some Food"/>
                                 <connections>
                                     <segue destination="NUm-Us-kjc" kind="show" id="cCL-Eu-83P"/>
                                 </connections>
@@ -479,7 +477,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="Y6x-zz-e8g"/>
                                 </constraints>
-                                <state key="normal" title="Button"/>
+                                <state key="normal" title="Thank the Bird for Helping You Clean Up the Glass"/>
                                 <connections>
                                     <segue destination="RC1-sC-FSS" kind="show" id="qOM-Yh-9f1"/>
                                 </connections>
@@ -490,8 +488,8 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="275" id="3XL-yg-HUA"/>
                                 </constraints>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <string key="text">The bird monster watches you cleaning up the glass. He's not such a monster after all. He's just big. Soon the bird monster is helping you pick up the glass. </string>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
@@ -513,7 +511,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="21v-65-cdW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2838" y="-217"/>
+            <point key="canvasLocation" x="2837.5999999999999" y="-217.24137931034485"/>
         </scene>
     </scenes>
 </document>
